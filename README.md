@@ -6,4 +6,4 @@ This is a coffee machine built in Scala using actors. Logically, an actor is a c
 The actors available in the coffee machine are: `BrewActor`, `CappuccinoActor`, `CombineActor`, `FrothMilkActor`, `GrassActor`, `GrindActor`, `HeatWaterActor`, `TeaActor`, `UserInteractionActor`, `WaterStorageActor`.
 
 ## Basic Usage
-Run the app and write what is prompted in the CLI.
+Run the app and follow what is prompted in the CLI.
